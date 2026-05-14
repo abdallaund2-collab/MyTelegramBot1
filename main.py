@@ -1,6 +1,6 @@
 import telebot
 import re
-from yt_dlp import YoutubeDLquests
+from yt_dlp import YoutubeDL
 import time
 import random
 import re
